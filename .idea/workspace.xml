@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8cb2b457-d587-4626-ba93-5f03c10ef5e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/boards/shields/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/sofle.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/sofle.keymap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/west.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zephyr/module.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zmk-config/boards/shields/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zmk-config/build.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zmk-config/config/sofle.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zmk-config/config/sofle.keymap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zmk-config/config/west.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zmk-config/zephyr/module.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,9 +15,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2vKCbQGfNxS8a2EQTeDwhBtgXlL" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -37,6 +26,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/GIT/zmk-config",
     "node.js.detected.package.eslint": "true",
@@ -63,6 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1743884450086</updated>
       <workItem from="1743884451393" duration="1095000" />
+      <workItem from="1744015084726" duration="2615000" />
     </task>
     <servers />
   </component>
